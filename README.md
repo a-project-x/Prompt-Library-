@@ -1,31 +1,56 @@
-Prompt-Library/
-│
-├── Marketing_and_Copywriting/
-│   ├── Scroll_Stopper.md
-│   ├── Cold_Email_Sniper.md
-│   ├── Storyteller_Framework.md
-│   ├── SaaS_Value_Prop_Architect.md
-│   ├── High_Conversion_MLS.md
-│   ├── Product_Description_Catalyst.md
-│   ├── Retargeting_Hook.md
-│   └── Affiliate_Bio_Builder.md
-│
-├── Business_and_Automation/
-│   ├── Messy_Data_Sanitizer.md
-│   ├── Executive_Summary_Generator.md
-│   ├── Interview_Script_Architect.md
-│   ├── Customer_Support_Empathy_Engine.md
-│   ├── Meeting_Minutes_Extractor.md
-│   └── Competitor_Strategy_Analyzer.md
-│
-├── Creative_and_Brand_Voice/
-│   ├── Persona_Clone.md
-│   ├── Newsletter_Companion.md
-│   ├── Analogies_And_Metaphors_Creator.md
-│   ├── Engaging_Thread_Hook.md
-│   ├── Script_Whisperer.md
-│   └── Anti_AI_Fluff_Filter.md
-│
-└── README.md
+# AI Prompt Engineering Portfolio
+
+Professional collection of advanced AI prompt systems for:
+- Marketing & Copywriting
+- Business Automation
+- Brand Voice Engineering
+- AI Content Optimization
+- Workflow Systems
 
 
+## 📂 Categories
+
+### Marketing_and_Copywriting
+- Scroll Stopper Hooks
+- Cold Email Systems
+- SaaS Value Propositions
+- Real Estate MLS Copy
+- Retargeting Frameworks
+
+### Business_and_Automation
+- Data Sanitization
+- Executive Summaries
+- Meeting Extraction
+- Customer Support Systems
+- Competitor Analysis
+
+### Creative_and_Brand_Voice
+- Persona Cloning
+- AI Humanization
+- Viral Hooks
+- Newsletter Systems
+- Script Writing
+
+
+## 🧠 Prompt Engineering Principles
+
+This repository focuses on:
+- Emotional specificity
+- Human psychology
+- Conversion-driven frameworks
+- Conversational rhythm
+- AI output control
+- Brand voice consistency
+- Structured prompting systems
+
+
+## ⚙️ Recommended Models
+
+- GPT-4.1
+- Claude Opus
+- Gemini 2.5 Pro
+
+
+## 📌 Repository Status
+
+Repository Expansion Mode Active.
