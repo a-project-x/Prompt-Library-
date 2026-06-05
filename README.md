@@ -1,56 +1,71 @@
-# AI Prompt Engineering Portfolio
+AI Prompt Engineering Portfolio
 
-Professional collection of advanced AI prompt systems for:
-- Marketing & Copywriting
-- Business Automation
-- Brand Voice Engineering
-- AI Content Optimization
-- Workflow Systems
+A collection of prompt systems, frameworks, and workflows designed for content creation, business automation, and brand communication.
 
+This repository documents how I approach prompt design, structure outputs, and build reusable systems that help AI produce more consistent and useful results.
 
-## 📂 Categories
+Areas of Focus
 
-### Marketing_and_Copywriting
+Marketing and Copywriting
+
 - Scroll Stopper Hooks
 - Cold Email Systems
 - SaaS Value Propositions
-- Real Estate MLS Copy
+- Real Estate Copy
 - Retargeting Frameworks
 
-### Business_and_Automation
+Business and Automation
+
 - Data Sanitization
 - Executive Summaries
-- Meeting Extraction
-- Customer Support Systems
+- Meeting Insights Extraction
+- Customer Support Workflows
 - Competitor Analysis
 
-### Creative_and_Brand_Voice
-- Persona Cloning
+Brand Voice and Creative Work
+
+- Persona Development
 - AI Humanization
-- Viral Hooks
+- Viral Content Structures
 - Newsletter Systems
 - Script Writing
 
+Prompt Design Principles
 
-## 🧠 Prompt Engineering Principles
+The prompts in this repository are built around:
 
-This repository focuses on:
-- Emotional specificity
 - Human psychology
-- Conversion-driven frameworks
-- Conversational rhythm
-- AI output control
+- Emotional clarity
+- Structured thinking
 - Brand voice consistency
-- Structured prompting systems
+- Output control
+- Conversational flow
+- Conversion-focused communication
 
+Repository Structure
 
-## ⚙️ Recommended Models
+Each category may include:
+
+- Prompt templates
+- Supporting frameworks
+- Example outputs
+- Use cases
+- Notes and improvements
+
+The goal is not just to collect prompts, but to build systems that can be adapted across different industries and workflows.
+
+Recommended Models
 
 - GPT-4.1
 - Claude Opus
 - Gemini 2.5 Pro
 
+Current Direction
 
-## 📌 Repository Status
+I am continuously expanding this repository with new frameworks, prompt systems, and workflow experiments focused on practical business and content use cases.
 
-Repository Expansion Mode Active.
+About This Repository
+
+This is an ongoing collection of ideas, experiments, and prompt engineering work. Some systems are production-ready, while others are actively being refined and tested.
+
+The focus is simple: build prompts that are useful, reliable, and easy to adapt to real-world projects.
