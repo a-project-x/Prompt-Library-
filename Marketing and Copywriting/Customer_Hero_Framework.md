@@ -1,18 +1,16 @@
-Customer Hero Framework
+The Storyteller Framework
 
 Overview
 
-A brand storytelling system that positions the customer as the hero and the brand as the guide.
+A storytelling system designed to create emotionally engaging brand narratives using the Hero's Journey approach.
 
-Instead of telling a company's history, the framework focuses on the customer's struggle, transformation, and desired outcome.
-
-The goal is to create stories that feel personal, believable, and emotionally engaging.
+The customer is positioned as the hero while the brand serves as the guide.
 
 
 
 Framework
 
-Customer Struggle
+Struggle
 
 ↓
 
@@ -34,13 +32,13 @@ Transformation
 
 Prompt Architecture
 
-Customer Problem
+Company
+↓
+Customer Challenge
 ↓
 Emotional Low Point
 ↓
 Guide Introduction
-↓
-Breakthrough Moment
 ↓
 Transformation Story
 
@@ -48,32 +46,17 @@ Transformation Story
 
 Core Prompt
 
-Write a short brand story for:
+Use the Hero's Journey framework to write a short brand story for:
 
-Company: [Company]
-
-Audience: [Audience]
+[Company]
 
 Requirements:
 
-- The customer is the hero
-- The company or founder is the guide
-- Focus on the emotional low point before the breakthrough
-- Use vivid but natural language
-- Avoid corporate storytelling clichés
-- Keep the story emotionally grounded and believable
-
-Structure:
-
-1. The Struggle
-2. The Lowest Point
-3. The Guide
-4. The Breakthrough
-5. The Transformation
-
-Tone:
-
-Raw, authentic, human
+- Customer is the hero
+- Founder or brand is the guide
+- Focus on emotional struggle
+- Highlight the turning point
+- Keep the tone raw and authentic
 
 
 
@@ -81,11 +64,11 @@ Example Output
 
 Before
 
-Founded in 2024, our company has always been committed to providing excellent service and innovative solutions for businesses.
+Founded in 2024, our company has always been committed to providing excellent service.
 
 After
 
-Three years ago, our customers were spending late nights trying to keep their businesses afloat while drowning in manual work. The frustration wasn't the workload. It was watching valuable opportunities slip away. That's when we built a simpler system. Today, those same business owners spend less time managing chaos and more time growing what matters.
+Three years ago, we sat in a cramped garage with $47 left in our account. The problem wasn't money. It was watching customers struggle with problems nobody seemed interested in solving.
 
 
 
@@ -94,7 +77,7 @@ Evaluation Criteria
 - Emotional Resonance
 - Story Flow
 - Authenticity
-- Customer-Centricity
+- Customer Focus
 - Memorability
 
 
@@ -113,15 +96,15 @@ Model Notes
 
 GPT-4.1
 
-Strong structure and business-focused storytelling.
+Strong narrative structure.
 
 Claude Opus
 
-Produces the most natural and emotionally nuanced narratives.
+Most emotionally nuanced storytelling.
 
 Gemini 2.5 Pro
 
-Good creativity but occasionally becomes overly descriptive.
+Creative but sometimes overly descriptive.
 
 
 
@@ -130,27 +113,12 @@ Research Notes
 Influenced by:
 
 - Hero's Journey
-- StoryBrand Framework
+- StoryBrand
 - Narrative Transportation Theory
 - Emotional Marketing
-- Consumer Identity Psychology
 
 
 
-Changelog
-
-Version 1.1
-
-- Repositioned customer as hero
-- Reduced founder-centric storytelling
-- Added emotional low-point emphasis
-
-Version 1.0
-
-Initial release
-
-
-
-Release: v1.1
+Release: v1.0
 
 Status: Active
