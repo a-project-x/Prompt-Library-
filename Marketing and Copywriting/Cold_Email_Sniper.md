@@ -1,20 +1,8 @@
-PACT Outreach Framework
+The Cold Email Sniper
 
 Overview
 
-A cold email system designed to create personalized B2B outreach without generic introductions, fake compliments, or corporate filler language.
-
-PACT stands for:
-
-Problem
-
-Authority
-
-Call-out
-
-Transition
-
-The framework focuses on identifying a real business problem, demonstrating credibility, and presenting a low-friction next step.
+A B2B outreach system designed to generate personalized cold emails that avoid generic introductions and focus on relevance, proof, and action.
 
 
 
@@ -22,25 +10,17 @@ Framework
 
 Problem
 
-Identify a costly business problem the prospect is likely experiencing.
+↓
+
+Proof
 
 ↓
 
-Authority
-
-Provide proof, evidence, or a relevant result.
+Offer
 
 ↓
 
-Call-out
-
-Connect the problem directly to the prospect's situation.
-
-↓
-
-Transition
-
-Offer a simple next step with minimal commitment.
+Call To Action
 
 
 
@@ -48,13 +28,11 @@ Prompt Architecture
 
 Target Persona
 ↓
-Business Context
-↓
-Problem Identification
+Pain Point Identification
 ↓
 Proof Selection
 ↓
-Offer Creation
+Offer Positioning
 ↓
 CTA
 
@@ -62,51 +40,47 @@ CTA
 
 Core Prompt
 
-Write a 4-sentence B2B cold email for:
+Write a 4-sentence B2B cold email.
 
-Target Persona: [Persona]
+Target Persona: [Target Persona]
 
 Service: [Service]
 
 Requirements:
 
 - No fake compliments
-- No corporate buzzwords
-- No "hope you're doing well"
-- Focus on a real business problem
+- No corporate filler
+- No "Hope this email finds you well"
 - Keep under 120 words
 
 Structure:
 
-Sentence 1: Problem
-
-Sentence 2: Proof
-
-Sentence 3: Low-friction offer
-
-Sentence 4: Direct CTA
+1. The problem
+2. The proof
+3. The low-friction offer
+4. The CTA
 
 
 
 Example Output
 
-Your competitors are capturing demand from buyers already searching for your service.
+Before
 
-We recently helped a similar company increase qualified inbound leads by 38%.
+Dear Sir, I hope this email finds you well.
 
-I recorded three opportunities I noticed on your website and can send them over.
+After
 
-Interested?
+Your competitor just ranked for your main keyword. We built a system that helped a similar company increase qualified traffic in 30 days. I found three opportunities on your site worth sharing. Interested?
 
 
 
 Evaluation Criteria
 
 - Personalization
-- Clarity
 - Credibility
+- Clarity
 - Reply Potential
-- Low Friction
+- Relevance
 
 
 
@@ -120,14 +94,30 @@ Gemini 2.5 Pro: 8.8/10
 
 
 
+Model Notes
+
+GPT-4.1
+
+Strong structure and business relevance.
+
+Claude Opus
+
+Most natural email flow.
+
+Gemini 2.5 Pro
+
+Good variation but occasionally less concise.
+
+
+
 Research Notes
 
 Inspired by:
 
 - Direct Response Copywriting
-- B2B Sales Psychology
-- Challenger Sales Concepts
-- Outreach Optimization Research
+- Challenger Sales
+- B2B Outreach Psychology
+- Sales Prospecting Research
 
 
 
