@@ -1,12 +1,10 @@
-WHY Ladder Framework
+SaaS Value Prop Architect
 
 Overview
 
-A value proposition system designed to transform product features into meaningful business and emotional outcomes.
+A value proposition system designed to transform product features into meaningful outcomes and emotional benefits.
 
-Most AI models stop at features.
-
-This framework repeatedly asks "Why does this matter?" until it reaches a valuable human outcome.
+The framework uses iterative "So What?" reasoning to move from functionality to value.
 
 
 
@@ -16,31 +14,31 @@ Feature
 
 ↓
 
-Functional Benefit
+Benefit
 
 ↓
 
-Practical Outcome
-
-↓
-
-Business Impact
+Outcome
 
 ↓
 
 Human Impact
 
+↓
+
+Value Proposition
+
 
 
 Prompt Architecture
 
-Feature Input
+Feature
 ↓
 Benefit Extraction
 ↓
 Outcome Expansion
 ↓
-Emotional Mapping
+Emotion Mapping
 ↓
 Value Proposition
 
@@ -48,48 +46,42 @@ Value Proposition
 
 Core Prompt
 
-Analyze this feature:
+Deconstruct this feature:
 
 [Feature]
 
-Apply the WHY Ladder Framework.
+Apply the "So What?" method repeatedly until you reach a meaningful human outcome.
 
-For each feature:
-
-1. Explain the functional benefit.
-2. Explain the practical outcome.
-3. Explain the business impact.
-4. Explain the human impact.
-5. Create one landing page value proposition.
+Create a landing-page-ready value proposition.
 
 Requirements:
 
-- Avoid feature-heavy language
-- Focus on outcomes
-- Use specific emotional language
-- Write naturally
+- Focus on outcomes, not features
+- Use natural language
+- Highlight emotional impact
+- Avoid technical jargon
 
 
 
 Example Output
 
-Feature:
+Before
 
-Automatic cloud backup every 5 minutes
+Our software offers automatic cloud backup every 5 minutes.
 
-Output:
+After
 
-Your work is protected automatically, so a laptop crash never becomes a lost day of productivity.
+Never experience that stomach-dropping feeling of losing a day's work again.
 
 
 
 Evaluation Criteria
 
+- Outcome Focus
 - Emotional Relevance
 - Clarity
-- Outcome Focus
 - Persuasiveness
-- Differentiation
+- Conversion Potential
 
 
 
@@ -103,14 +95,30 @@ Gemini 2.5 Pro: 8.9/10
 
 
 
+Model Notes
+
+GPT-4.1
+
+Strong business-focused positioning.
+
+Claude Opus
+
+More natural emotional language.
+
+Gemini 2.5 Pro
+
+Produces diverse value angles.
+
+
+
 Research Notes
 
-Influenced by:
+Based on:
 
 - Jobs To Be Done
-- Customer Value Theory
 - Behavioral Economics
 - Conversion Copywriting
+- Customer Value Theory
 
 
 
