@@ -1,24 +1,24 @@
-Shared Struggle Framework
+The Affiliate Bio Builder
 
 Overview
 
-A creator bio system designed to build trust through relatability, personal experience, and shared challenges rather than authority claims.
+A creator branding system designed to build trust through relatability and shared experiences rather than authority-first positioning.
 
-The framework positions the creator as a guide who has already faced the audience's frustrations.
+The framework focuses on connecting with audiences through common frustrations and personal insights.
 
 
 
 Framework
 
-Shared Struggle
+Shared Frustration
 
 ↓
 
-Personal Insight
+Personal Experience
 
 ↓
 
-Transformation
+Lesson Learned
 
 ↓
 
@@ -32,11 +32,11 @@ Trust Building
 
 Prompt Architecture
 
-Creator Niche
+Product Category
 ↓
 Audience Pain Point
 ↓
-Personal Story
+Personal Story Angle
 ↓
 Transformation
 ↓
@@ -46,37 +46,30 @@ Bio Creation
 
 Core Prompt
 
-Create a creator bio for:
+Write a creator bio for:
 
-Product Category: [Product Category]
-
-Audience: [Audience]
+[Product Category]
 
 Requirements:
 
 - Use a conversational tone
-- Avoid credentials-first introductions
 - Lead with a relatable struggle
+- Avoid credential-heavy introductions
 - Show personal experience
 - Build trust naturally
-
-Structure:
-
-1. Shared Frustration
-2. Personal Discovery
-3. Current Mission
+- Keep it concise
 
 
 
 Example Output
 
-Input
+Before
 
-Fitness Products
+I am a certified fitness expert...
 
-Output
+After
 
-I tried every diet trend I could find before realizing most people don't need more hacks. They need a system they can actually stick to. Now I share what works without the noise.
+I tried every diet on YouTube so you don't have to.
 
 
 
@@ -85,8 +78,8 @@ Evaluation Criteria
 - Relatability
 - Authenticity
 - Trust Building
-- Clarity
 - Audience Connection
+- Clarity
 
 
 
@@ -100,12 +93,28 @@ Gemini 2.5 Pro: 8.8/10
 
 
 
+Model Notes
+
+GPT-4.1
+
+Strong structure and clarity.
+
+Claude Opus
+
+Most authentic and relatable voice.
+
+Gemini 2.5 Pro
+
+Creative and conversational outputs.
+
+
+
 Research Notes
 
-Inspired by:
+Influenced by:
 
-- Trust-Based Marketing
 - Personal Branding
+- Trust-Based Marketing
 - Storytelling Psychology
 - Creator Economy Research
 
